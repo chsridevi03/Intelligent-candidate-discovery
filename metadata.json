@@ -1,0 +1,6 @@
+{
+  "name": "AI Talent Intelligence and Candidate Discovery System",
+  "description": "An advanced AI-powered candidate screening, semantic skills matching, and recruitment analytics platform with Excel export and resume parsing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
